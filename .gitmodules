@@ -1,0 +1,6 @@
+[submodule "app"]
+	path = app
+	url = https://github.com/maxrio21/FitTrack-APP
+[submodule "api"]
+	path = api
+	url = https://github.com/maxrio21/API-REST-NodeJS
